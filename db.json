@@ -1,0 +1,1379 @@
+{
+  "groups": [
+    {
+      "group-code": "Work Tools - Outils De Travail",
+      "group-display-name": "Attachments",
+      "count": 4,
+      "equipments": [
+        {
+          "id": "10041770",
+          "dealer-name": "CATERPILLAR FINANCIAL SERVICES CORPORATION",
+          "stock-number": "OKL5742312",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "CAT",
+          "manufacturer": "CATERPILLAR",
+          "model": "299D3XE",
+          "description": "Description goes here",
+          "serial-number": "BX901346",
+          "year": "2020",
+          "hours": 2417,
+          "city": "Waco",
+          "state": "TX",
+          "sku": "N001|BFE|10041770",
+          "inspection-link": "https://tws.toromont.ca/ToromontCAT/ServiceHub/PublicInfo/ecomm/inspection?sku=N001|BFE|10041770",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "65000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/home-skid.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "1004204247230947823002",
+          "dealer-name": "JOHN DEERE FINANCIAL",
+          "stock-number": "JDF4378291",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "JD",
+          "manufacturer": "JOHN DEERE",
+          "model": "333G",
+          "description": "Description goes here",
+          "serial-number": "JD123456",
+          "year": "2022",
+          "hours": 1845,
+          "city": "Houston",
+          "state": "TX",
+          "sku": "N002|BFE|10042001",
+          "inspection-link": "https://www.johndeere.com/inspection?sku=N002|BFE|10042001",
+          "certification": "Certified Pre-Owned",
+          "certification-code": "CPO",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/jd-333g.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10042346",
+          "dealer-name": "VOLVO FINANCIAL SERVICES",
+          "stock-number": "VFS6758921",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "VOL",
+          "manufacturer": "VOLVO",
+          "model": "ECR40D",
+          "description": "Description goes here",
+          "serial-number": "VOL987654",
+          "year": "2021",
+          "hours": 1278,
+          "city": "Los Angeles",
+          "state": "CA",
+          "sku": "N003|BFE|10042345",
+          "inspection-link": "https://www.volvoce.com/inspection?sku=N003|BFE|10042345",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/volvo-ecr40d.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "10043018",
+          "dealer-name": "KOMATSU FINANCIAL",
+          "stock-number": "KOM5687123",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "KOM",
+          "manufacturer": "KOMATSU",
+          "model": "CK30-1",
+          "description": "Description goes here",
+          "serial-number": "KOM789012",
+          "year": "2023",
+          "hours": 932,
+          "city": "Chicago",
+          "state": "IL",
+          "sku": "N004|BFE|10043017",
+          "inspection-link": "https://www.komatsu.com/inspection?sku=N004|BFE|10043017",
+          "certification": "Certified Used",
+          "certification-code": "CU",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/komatsu-ck30-1.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "10043926",
+          "dealer-name": "BOBCAT FINANCIAL SERVICES",
+          "stock-number": "BOB7235196",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "BOB",
+          "manufacturer": "BOBCAT",
+          "model": "T770",
+          "description": "Description goes here",
+          "serial-number": "BOB567890",
+          "year": "2023",
+          "hours": 745,
+          "city": "Denver",
+          "state": "CO",
+          "sku": "N005|BFE|10043925",
+          "inspection-link": "https://www.bobcat.com/inspection?sku=N005|BFE|10043925",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/bobcat-t770.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041771",
+          "dealer-name": "CATERPILLAR FINANCIAL SERVICES CORPORATION",
+          "stock-number": "OKL5742312",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "CAT",
+          "manufacturer": "CATERPILLAR",
+          "model": "299D3XE",
+          "description": "Description goes here",
+          "serial-number": "BX901346",
+          "year": "2020",
+          "hours": 2417,
+          "city": "Waco",
+          "state": "TX",
+          "sku": "N001|BFE|10041770",
+          "inspection-link": "https://tws.toromont.ca/ToromontCAT/ServiceHub/PublicInfo/ecomm/inspection?sku=N001|BFE|10041770",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/home-skid.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "10042002",
+          "dealer-name": "JOHN DEERE FINANCIAL",
+          "stock-number": "JDF4378291",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "JD",
+          "manufacturer": "JOHN DEERE",
+          "model": "333G",
+          "description": "Description goes here",
+          "serial-number": "JD123456",
+          "year": "2022",
+          "hours": 1845,
+          "city": "Houston",
+          "state": "TX",
+          "sku": "N002|BFE|10042001",
+          "inspection-link": "https://www.johndeere.com/inspection?sku=N002|BFE|10042001",
+          "certification": "Certified Pre-Owned",
+          "certification-code": "CPO",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/jd-333g.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "100423478",
+          "dealer-name": "VOLVO FINANCIAL SERVICES",
+          "stock-number": "VFS6758921",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "VOL",
+          "manufacturer": "VOLVO",
+          "model": "ECR40D",
+          "description": "Description goes here",
+          "serial-number": "VOL987654",
+          "year": "2021",
+          "hours": 1278,
+          "city": "Los Angeles",
+          "state": "CA",
+          "sku": "N003|BFE|10042345",
+          "inspection-link": "https://www.volvoce.com/inspection?sku=N003|BFE|10042345",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/volvo-ecr40d.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "10043017321",
+          "dealer-name": "KOMATSU FINANCIAL",
+          "stock-number": "KOM5687123",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "KOM",
+          "manufacturer": "KOMATSU",
+          "model": "CK30-1",
+          "description": "Description goes here",
+          "serial-number": "KOM789012",
+          "year": "2023",
+          "hours": 932,
+          "city": "Chicago",
+          "state": "IL",
+          "sku": "N004|BFE|10043017",
+          "inspection-link": "https://www.komatsu.com/inspection?sku=N004|BFE|10043017",
+          "certification": "Certified Used",
+          "certification-code": "CU",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/komatsu-ck30-1.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "10043924324324325",
+          "dealer-name": "BOBCAT FINANCIAL SERVICES",
+          "stock-number": "BOB7235196",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "BOB",
+          "manufacturer": "BOBCAT",
+          "model": "T770",
+          "description": "Description goes here",
+          "serial-number": "BOB567890",
+          "year": "2023",
+          "hours": 745,
+          "city": "Denver",
+          "state": "CO",
+          "sku": "N005|BFE|10043925",
+          "inspection-link": "https://www.bobcat.com/inspection?sku=N005|BFE|10043925",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/bobcat-t770.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "1004143243242770",
+          "dealer-name": "CATERPILLAR FINANCIAL SERVICES CORPORATION",
+          "stock-number": "OKL5742312",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "CAT",
+          "manufacturer": "CATERPILLAR",
+          "model": "299D3XE",
+          "description": "Description goes here",
+          "serial-number": "BX901346",
+          "year": "2020",
+          "hours": 2417,
+          "city": "Waco",
+          "state": "TX",
+          "sku": "N001|BFE|10041770",
+          "inspection-link": "https://tws.toromont.ca/ToromontCAT/ServiceHub/PublicInfo/ecomm/inspection?sku=N001|BFE|10041770",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/home-skid.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "10043243243242001",
+          "dealer-name": "JOHN DEERE FINANCIAL",
+          "stock-number": "JDF4378291",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "JD",
+          "manufacturer": "JOHN DEERE",
+          "model": "333G",
+          "description": "Description goes here",
+          "serial-number": "JD123456",
+          "year": "2022",
+          "hours": 1845,
+          "city": "Houston",
+          "state": "TX",
+          "sku": "N002|BFE|10042001",
+          "inspection-link": "https://www.johndeere.com/inspection?sku=N002|BFE|10042001",
+          "certification": "Certified Pre-Owned",
+          "certification-code": "CPO",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/jd-333g.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "100423432432445",
+          "dealer-name": "VOLVO FINANCIAL SERVICES",
+          "stock-number": "VFS6758921",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "VOL",
+          "manufacturer": "VOLVO",
+          "model": "ECR40D",
+          "description": "Description goes here",
+          "serial-number": "VOL987654",
+          "year": "2021",
+          "hours": 1278,
+          "city": "Los Angeles",
+          "state": "CA",
+          "sku": "N003|BFE|10042345",
+          "inspection-link": "https://www.volvoce.com/inspection?sku=N003|BFE|10042345",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/volvo-ecr40d.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "1004346546017",
+          "dealer-name": "KOMATSU FINANCIAL",
+          "stock-number": "KOM5687123",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "KOM",
+          "manufacturer": "KOMATSU",
+          "model": "CK30-1",
+          "description": "Description goes here",
+          "serial-number": "KOM789012",
+          "year": "2023",
+          "hours": 932,
+          "city": "Chicago",
+          "state": "IL",
+          "sku": "N004|BFE|10043017",
+          "inspection-link": "https://www.komatsu.com/inspection?sku=N004|BFE|10043017",
+          "certification": "Certified Used",
+          "certification-code": "CU",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/komatsu-ck30-1.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "100435435453925",
+          "dealer-name": "BOBCAT FINANCIAL SERVICES",
+          "stock-number": "BOB7235196",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "BOB",
+          "manufacturer": "BOBCAT",
+          "model": "T770",
+          "description": "Description goes here",
+          "serial-number": "BOB567890",
+          "year": "2023",
+          "hours": 745,
+          "city": "Denver",
+          "state": "CO",
+          "sku": "N005|BFE|10043925",
+          "inspection-link": "https://www.bobcat.com/inspection?sku=N005|BFE|10043925",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/bobcat-t770.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "1004154375474770",
+          "dealer-name": "CATERPILLAR FINANCIAL SERVICES CORPORATION",
+          "stock-number": "OKL5742312",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "CAT",
+          "manufacturer": "CATERPILLAR",
+          "model": "299D3XE",
+          "description": "Description goes here",
+          "serial-number": "BX901346",
+          "year": "2020",
+          "hours": 2417,
+          "city": "Waco",
+          "state": "TX",
+          "sku": "N001|BFE|10041770",
+          "inspection-link": "https://tws.toromont.ca/ToromontCAT/ServiceHub/PublicInfo/ecomm/inspection?sku=N001|BFE|10041770",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/home-skid.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "1004206565301",
+          "dealer-name": "JOHN DEERE FINANCIAL",
+          "stock-number": "JDF4378291",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "JD",
+          "manufacturer": "JOHN DEERE",
+          "model": "333G",
+          "description": "Description goes here",
+          "serial-number": "JD123456",
+          "year": "2022",
+          "hours": 1845,
+          "city": "Houston",
+          "state": "TX",
+          "sku": "N002|BFE|10042001",
+          "inspection-link": "https://www.johndeere.com/inspection?sku=N002|BFE|10042001",
+          "certification": "Certified Pre-Owned",
+          "certification-code": "CPO",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/jd-333g.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10042456543634345",
+          "dealer-name": "VOLVO FINANCIAL SERVICES",
+          "stock-number": "VFS6758921",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "VOL",
+          "manufacturer": "VOLVO",
+          "model": "ECR40D",
+          "description": "Description goes here",
+          "serial-number": "VOL987654",
+          "year": "2021",
+          "hours": 1278,
+          "city": "Los Angeles",
+          "state": "CA",
+          "sku": "N003|BFE|10042345",
+          "inspection-link": "https://www.volvoce.com/inspection?sku=N003|BFE|10042345",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/volvo-ecr40d.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "10043043523154317",
+          "dealer-name": "KOMATSU FINANCIAL",
+          "stock-number": "KOM5687123",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "KOM",
+          "manufacturer": "KOMATSU",
+          "model": "CK30-1",
+          "description": "Description goes here",
+          "serial-number": "KOM789012",
+          "year": "2023",
+          "hours": 932,
+          "city": "Chicago",
+          "state": "IL",
+          "sku": "N004|BFE|10043017",
+          "inspection-link": "https://www.komatsu.com/inspection?sku=N004|BFE|10043017",
+          "certification": "Certified Used",
+          "certification-code": "CU",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/komatsu-ck30-1.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "1004394382904820325",
+          "dealer-name": "BOBCAT FINANCIAL SERVICES",
+          "stock-number": "BOB7235196",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "BOB",
+          "manufacturer": "BOBCAT",
+          "model": "T770",
+          "description": "Description goes here",
+          "serial-number": "BOB567890",
+          "year": "2023",
+          "hours": 745,
+          "city": "Denver",
+          "state": "CO",
+          "sku": "N005|BFE|10043925",
+          "inspection-link": "https://www.bobcat.com/inspection?sku=N005|BFE|10043925",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/bobcat-t770.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041748394382070",
+          "dealer-name": "CATERPILLAR FINANCIAL SERVICES CORPORATION",
+          "stock-number": "OKL5742312",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "CAT",
+          "manufacturer": "CATERPILLAR",
+          "model": "299D3XE",
+          "description": "Description goes here",
+          "serial-number": "BX901346",
+          "year": "2020",
+          "hours": 2417,
+          "city": "Waco",
+          "state": "TX",
+          "sku": "N001|BFE|10041770",
+          "inspection-link": "https://tws.toromont.ca/ToromontCAT/ServiceHub/PublicInfo/ecomm/inspection?sku=N001|BFE|10041770",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/home-skid.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "100420498284902101",
+          "dealer-name": "JOHN DEERE FINANCIAL",
+          "stock-number": "JDF4378291",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "JD",
+          "manufacturer": "JOHN DEERE",
+          "model": "333G",
+          "description": "Description goes here",
+          "serial-number": "JD123456",
+          "year": "2022",
+          "hours": 1845,
+          "city": "Houston",
+          "state": "TX",
+          "sku": "N002|BFE|10042001",
+          "inspection-link": "https://www.johndeere.com/inspection?sku=N002|BFE|10042001",
+          "certification": "Certified Pre-Owned",
+          "certification-code": "CPO",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/jd-333g.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "100423382138210945",
+          "dealer-name": "VOLVO FINANCIAL SERVICES",
+          "stock-number": "VFS6758921",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "VOL",
+          "manufacturer": "VOLVO",
+          "model": "ECR40D",
+          "description": "Description goes here",
+          "serial-number": "VOL987654",
+          "year": "2021",
+          "hours": 1278,
+          "city": "Los Angeles",
+          "state": "CA",
+          "sku": "N003|BFE|10042345",
+          "inspection-link": "https://www.volvoce.com/inspection?sku=N003|BFE|10042345",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/volvo-ecr40d.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "100430382132810917",
+          "dealer-name": "KOMATSU FINANCIAL",
+          "stock-number": "KOM5687123",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "KOM",
+          "manufacturer": "KOMATSU",
+          "model": "CK30-1",
+          "description": "Description goes here",
+          "serial-number": "KOM789012",
+          "year": "2023",
+          "hours": 932,
+          "city": "Chicago",
+          "state": "IL",
+          "sku": "N004|BFE|10043017",
+          "inspection-link": "https://www.komatsu.com/inspection?sku=N004|BFE|10043017",
+          "certification": "Certified Used",
+          "certification-code": "CU",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/komatsu-ck30-1.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "1004393210392819025",
+          "dealer-name": "BOBCAT FINANCIAL SERVICES",
+          "stock-number": "BOB7235196",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "BOB",
+          "manufacturer": "BOBCAT",
+          "model": "T770",
+          "description": "Description goes here",
+          "serial-number": "BOB567890",
+          "year": "2023",
+          "hours": 745,
+          "city": "Denver",
+          "state": "CO",
+          "sku": "N005|BFE|10043925",
+          "inspection-link": "https://www.bobcat.com/inspection?sku=N005|BFE|10043925",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/bobcat-t770.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041382190382190770",
+          "dealer-name": "CATERPILLAR FINANCIAL SERVICES CORPORATION",
+          "stock-number": "OKL5742312",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "CAT",
+          "manufacturer": "CATERPILLAR",
+          "model": "299D3XE",
+          "description": "Description goes here",
+          "serial-number": "BX901346",
+          "year": "2020",
+          "hours": 2417,
+          "city": "Waco",
+          "state": "TX",
+          "sku": "N001|BFE|10041770",
+          "inspection-link": "https://tws.toromont.ca/ToromontCAT/ServiceHub/PublicInfo/ecomm/inspection?sku=N001|BFE|10041770",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/home-skid.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "1004200132138190",
+          "dealer-name": "JOHN DEERE FINANCIAL",
+          "stock-number": "JDF4378291",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "JD",
+          "manufacturer": "JOHN DEERE",
+          "model": "333G",
+          "description": "Description goes here",
+          "serial-number": "JD123456",
+          "year": "2022",
+          "hours": 1845,
+          "city": "Houston",
+          "state": "TX",
+          "sku": "N002|BFE|10042001",
+          "inspection-link": "https://www.johndeere.com/inspection?sku=N002|BFE|10042001",
+          "certification": "Certified Pre-Owned",
+          "certification-code": "CPO",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/jd-333g.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10038291038290142345",
+          "dealer-name": "VOLVO FINANCIAL SERVICES",
+          "stock-number": "VFS6758921",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "VOL",
+          "manufacturer": "VOLVO",
+          "model": "ECR40D",
+          "description": "Description goes here",
+          "serial-number": "VOL987654",
+          "year": "2021",
+          "hours": 1278,
+          "city": "Los Angeles",
+          "state": "CA",
+          "sku": "N003|BFE|10042345",
+          "inspection-link": "https://www.volvoce.com/inspection?sku=N003|BFE|10042345",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/volvo-ecr40d.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "10043013829018329017",
+          "dealer-name": "KOMATSU FINANCIAL",
+          "stock-number": "KOM5687123",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "KOM",
+          "manufacturer": "KOMATSU",
+          "model": "CK30-1",
+          "description": "Description goes here",
+          "serial-number": "KOM789012",
+          "year": "2023",
+          "hours": 932,
+          "city": "Chicago",
+          "state": "IL",
+          "sku": "N004|BFE|10043017",
+          "inspection-link": "https://www.komatsu.com/inspection?sku=N004|BFE|10043017",
+          "certification": "Certified Used",
+          "certification-code": "CU",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/komatsu-ck30-1.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+
+        {
+          "id": "1004332103721097925",
+          "dealer-name": "BOBCAT FINANCIAL SERVICES",
+          "stock-number": "BOB7235196",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "BOB",
+          "manufacturer": "BOBCAT",
+          "model": "T770",
+          "description": "Description goes here",
+          "serial-number": "BOB567890",
+          "year": "2023",
+          "hours": 745,
+          "city": "Denver",
+          "state": "CO",
+          "sku": "N005|BFE|10043925",
+          "inspection-link": "https://www.bobcat.com/inspection?sku=N005|BFE|10043925",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "sale-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/bobcat-t770.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        }
+      ]
+    }
+  ]
+}
